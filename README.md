@@ -1,8 +1,10 @@
-# 👋 Hi, I'm Gennady Kamenko
+# 👋 Hi, I'm Gena
 
 🎯 **Frontend Developer**  
 📍 Minsk, Belarus | Telegram: [@kamenkogena](https://t.me/kamenkogena)  
 📧 kamenko.gennady@gmail.com | 🌐 [GitHub Profile](https://github.com/kamenko-gena)
+
+
 
 ## 🧰 Tech Stack
 
@@ -10,6 +12,8 @@
 **Backend / Tools:** Node.js, telegraf.js, Firebase, Sentry  
 **DevOps:** Git, GitHub, GitLab, CI/CD  
 **Languages:** 🇷🇺 Russian (C1), 🇧🇾 Belarusian (Native), 🇬🇧 English (B1)
+
+
 
 ## 🚀 Projects
 
