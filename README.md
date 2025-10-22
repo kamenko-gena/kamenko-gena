@@ -4,16 +4,12 @@
 📍 Minsk, Belarus | Telegram: [@kamenkogena](https://t.me/kamenkogena)  
 📧 kamenko.gennady@gmail.com | 🌐 [GitHub Profile](https://github.com/kamenko-gena)
 
----
-
 ## 🧰 Tech Stack
 
 **Frontend:** HTML, CSS, JavaScript (ES6+), TypeScript, Angular, RxJS, Taiga UI, ThreeJS  
 **Backend / Tools:** Node.js, telegraf.js, Firebase, Sentry  
 **DevOps:** Git, GitHub, GitLab, CI/CD  
 **Languages:** 🇷🇺 Russian (C1), 🇧🇾 Belarusian (Native), 🇬🇧 English (B1)
-
----
 
 ## 🚀 Projects
 
@@ -22,14 +18,10 @@
 **Stack:** Angular 18, Taiga UI 3, RxJS, Firebase, Sentry  
 **Features:** user authentication, Firestore database, reactive search, sorting & filtering, user comments
 
----
-
 ### 🧠 [Exam Tests Platform](https://kamenko-gena.github.io/mhs-exam-tests)
 > Examination platform for testing and managing questions  
 **Stack:** Angular 18, Taiga UI 3, RxJS, Firebase, Sentry  
 **Features:** test and question panels, session & local storage, reactive search
-
----
 
 ### 🤖 [Telegram AI Bot](https://t.me/KamenkoAIBot)
 > Telegram bot powered by **Google Gemini AI**  
