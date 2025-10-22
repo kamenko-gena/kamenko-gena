@@ -8,10 +8,12 @@
 
 ## 🧰 Tech Stack
 
-**Frontend:** HTML, CSS, JavaScript (ES6+), TypeScript, Angular, RxJS, Taiga UI, ThreeJS  
-**Backend / Tools:** Node.js, telegraf.js, Firebase, Sentry  
-**DevOps:** Git, GitHub, GitLab, CI/CD  
-**Languages:** 🇷🇺 Russian (C1), 🇧🇾 Belarusian (Native), 🇬🇧 English (B1)
+| **Category** | **Technologies** |
+|:--------------|:----------------|
+| 🎨 **Frontend** | HTML, CSS, JavaScript (ES6+), TypeScript, Angular, RxJS, Taiga UI, ThreeJS |
+| ⚙️ **Backend / Tools** | Node.js, telegraf.js, Firebase, Sentry |
+| 🚀 **DevOps** | Git, GitHub, GitLab, CI/CD |
+| 🌐 **Languages** | 🇷🇺 Russian (C1), 🇧🇾 Belarusian (Native), 🇬🇧 English (B1) |
 
 
 
