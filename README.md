@@ -1,6 +1,3 @@
-# 👋 Hi, I'm Gena
-
-💻 **Frontend Developer**  
 📞 Telegram: [@kamenkogena](https://t.me/kamenkogena)  
 📧 kamenko.gennady@gmail.com
 
@@ -10,7 +7,7 @@
 
 | **Category** | **Technologies** |
 |:--------------|:----------------|
-| 🎨 **Frontend** | HTML, CSS, JavaScript (ES6+), TypeScript, Angular, RxJS, Taiga UI, ThreeJS |
+| 🎨 **Frontend** | HTML, CSS, JavaScript (ES6+), TypeScript, Angular, React, Redux, Redux Toolkit, RxJS, Taiga UI, ThreeJS |
 | ⚙️ **Backend / Tools** | Node.js, telegraf.js, Firebase, Sentry |
 | 🚀 **DevOps** | Git, GitHub, GitLab, CI/CD |
 
